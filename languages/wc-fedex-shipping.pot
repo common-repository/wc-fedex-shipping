@@ -1,0 +1,1554 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-03 19:37-0700\n"
+"PO-Revision-Date: 2021-04-10 15:06-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/Admin/OneTeamSoftware.php:221
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:247
+msgid "About Us"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:255
+msgid "Contact Us"
+msgstr ""
+
+#: includes/Shipping/AbstractShippingMethod.php:204
+msgid "is invalid"
+msgstr ""
+
+#: includes/Shipping/Adapter/AbstractAdapter.php:63
+#: includes/Shipping/Adapter/Fedex.php:50
+msgid "USD"
+msgstr ""
+
+#: includes/Shipping/Adapter/AbstractAdapter.php:63
+#: includes/Shipping/Adapter/Fedex.php:50
+msgid "CAD"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:53
+#: includes/Shipping/Adapter/Fedex.php:1293
+#: includes/Shipping/ShippingMethod.php:870
+msgid "Merchandise"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:54
+msgid "Not Sold"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:55
+msgid "Gift"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:56
+msgid "Personal Effects"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:57
+msgid "Returned Goods"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:58
+msgid "Sample"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:165
+#: includes/Shipping/ShippingMethod.php:439
+#: includes/Shipping/ShippingMethod.php:1012
+#: includes/Shipping/ShippingMethod.php:1664
+#: includes/Shipping/ShippingMethod.php:1669
+#: includes/Shipping/ShippingMethod.php:1674
+#: includes/Shipping/ShippingMethod.php:1679
+#: includes/Shipping/ShippingMethod.php:1684
+#: includes/Shipping/ShippingMethod.php:1689
+msgid "From Address"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:196
+msgid "Key"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:204
+msgid "Password"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:213
+msgid "Express Account Information"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:217
+#: includes/Shipping/Adapter/Fedex.php:239
+#: includes/Shipping/Adapter/Fedex.php:267
+#: includes/Shipping/ShippingMethod.php:227
+#: includes/Shipping/ShippingMethod.php:414
+#: includes/Shipping/ShippingMethod.php:694
+#: includes/Shipping/ShippingMethod.php:768
+#: includes/Shipping/ShippingMethod.php:816
+#: includes/Shipping/ShippingMethod.php:953
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:219
+#: includes/Shipping/Adapter/Fedex.php:241
+#: includes/Shipping/Adapter/Fedex.php:269
+msgid "Enable this service"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:222
+#: includes/Shipping/Adapter/Fedex.php:244
+#: includes/Shipping/Adapter/Fedex.php:272
+msgid "Account Number"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:228
+#: includes/Shipping/Adapter/Fedex.php:250
+#: includes/Shipping/Adapter/Fedex.php:278
+msgid "Meter Number"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:235
+msgid "SmartPost Account Information"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:256
+msgid "Hub ID"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:263
+msgid "Freight Account Information"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:284
+msgid "Freight Account Number"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:290
+msgid "Default Freight Package Type"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:296
+msgid "Freight Account Billing Address"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:298
+msgid ""
+"This address should exactly match the address FedEx has on file for your "
+"freight account."
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:301
+msgid "Same As From Address"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:302
+msgid "If checked then From Address will be used instead"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:307
+#: includes/Shipping/Hooks/SettingsForm.php:133
+#: includes/Shipping/Hooks/SettingsForm.php:219
+#: includes/Shipping/ShippingMethod.php:1017
+msgid "Name"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:311
+#: includes/Shipping/ShippingMethod.php:1021
+msgid "Company"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:315
+#: includes/Shipping/ShippingMethod.php:1025
+msgid "Email"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:320
+#: includes/Shipping/ShippingMethod.php:1029
+msgid "Phone"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:324
+#: includes/Shipping/ShippingMethod.php:1033
+msgid "Country"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:331
+#: includes/Shipping/ShippingMethod.php:1039
+msgid "State"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:337
+#: includes/Shipping/ShippingMethod.php:1044
+msgid "City"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:342
+#: includes/Shipping/ShippingMethod.php:1048
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:347
+#: includes/Shipping/ShippingMethod.php:1052
+msgid "Address 1"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:352
+#: includes/Shipping/ShippingMethod.php:1056
+msgid "Address 2"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:646
+#, php-format
+msgid "Estimated delivery in %d days"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:736
+msgid "Unrecognized response"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:766
+msgid ""
+"Suite information was provided and was either incorrect, or was provided for "
+"an address that was not recognized as requiring secondary information"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:770
+msgid ""
+"Address was resolved to a building base address and requires suite or unit "
+"number"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:774
+#: includes/Shipping/Adapter/Fedex.php:778
+msgid "Address is missing a required leading or trailing directional"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:782
+msgid ""
+"Address was resolved to a standardized address for the base address of a "
+"multiunit building"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:786
+#: includes/Shipping/Adapter/Fedex.php:790
+msgid "More than one potential matches for provided address"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:861
+msgid "FedEx API did not return any response"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:981
+msgid "Freight Bag"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:982
+msgid "Freight Barrel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:983
+msgid "Freight Box"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:984
+msgid "Freight Bucket"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:985
+msgid "Freight Bundle"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:986
+msgid "Freight Carton"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:987
+msgid "Freight Case"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:988
+msgid "Freight Container"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:989
+msgid "Freight Crate"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:990
+msgid "Freight Cylinder"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:991
+msgid "Freight Drum"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:992
+msgid "Freight Envelope"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:993
+msgid "Freight Hamper"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:994
+msgid "Freight Other"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:995
+msgid "Freight Pail"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:996
+msgid "Freight Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:997
+msgid "Freight Piece"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:998
+msgid "Freight Reel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:999
+msgid "Freight Roll"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:1000
+msgid "Freight Skid"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:1001
+msgid "Freight Tank"
+msgstr ""
+
+#: includes/Shipping/Adapter/Fedex.php:1002
+msgid "Freight Tube"
+msgstr ""
+
+#: includes/Shipping/ApiRatesFinder.php:48
+msgid "Destination country is required"
+msgstr ""
+
+#: includes/Shipping/ApiRatesFinder.php:55
+msgid "Parcel weight must be larger than 0"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:51
+#: includes/Shipping/ShippingMethod.php:440
+msgid "Parcel Packing"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:53
+msgid ""
+"Configure shipping boxes you use, so we can automatically determine how "
+"items will be packed and get more accurate shipping rates quote."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:56
+msgid "Combine All Boxes"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:57
+msgid ""
+"Try to find a bigger box to ship everything as one package, instead of "
+"requesting shipping quote for each of the boxes and then asking customer to "
+"pay a sum of all the fees."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:65
+#: includes/Shipping/ShippingMethod.php:349
+msgid "Use Cube Dimensions"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:66
+msgid ""
+"Parcel dimensions will be converted into cube with equally long sides. It "
+"can only be used when Combine All Boxes is enabled."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:71
+#: includes/Shipping/ShippingMethod.php:355
+#: includes/Shipping/ShippingMethod.php:427
+msgid "WARNING!!!"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:72
+#: includes/Shipping/ShippingMethod.php:356
+msgid ""
+"Combine All Products must be enabled before Use Cube Dimensions can be used."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:89
+#: includes/Shipping/ShippingMethod.php:441
+msgid "Services"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:91
+msgid ""
+"Control visibility of the services returned by the API, customize the "
+"shipping methods' name that customers will see as well as define shipping "
+"rate adjustments."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:94
+msgid "Enable / Disable Services"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:95
+msgid "Display services that have not been listed below"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:127
+msgid ""
+"PRO version allows to specify max weight that boxes can carry, outer "
+"dimensions, weight and inner padding of the boxes that are used to ship items"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:132
+#: includes/Shipping/Hooks/SettingsForm.php:218
+msgid "Enabled"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:134
+msgid "Type"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:135
+msgid "Length"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:136
+msgid "Width"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:137
+msgid "Height"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:138
+msgid "Weight"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:139
+msgid "Inner Padding"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:140
+msgid "Max Weight"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:146
+msgid "Add Box"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:147
+msgid "Remove selected box(es)"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:151
+msgid "Fields marked with (*) are required"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:213
+msgid ""
+"PRO version allows to specify shipping method services that you want to "
+"display / customize."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:220
+msgid "Name Displayed to Customers"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:221
+#: includes/Shipping/ShippingMethod.php:636
+msgid "Add to Rate"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:222
+#: includes/Shipping/ShippingMethod.php:642
+msgid "Multiply Rate By"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:228
+msgid "Add Service"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:229
+msgid "Remove Selected Services"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:233
+msgid ""
+"Shipping rate adjustments will be applied to the base rate returned by the "
+"service and they will overwrite global rate adjustments."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:264
+#: includes/Shipping/ShippingMethod.php:67
+msgid "Requires"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:266
+#: includes/Shipping/ShippingMethod.php:69
+msgid "PRO Version"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:64
+#, php-format
+msgid "%s Shipping"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:122
+msgid "From Address:"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:124
+msgid "Shipping Address:"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:140
+msgid "Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:43
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:49
+msgid ""
+"Real-time shipping rates, shipping label creation and tracking of the "
+"shipments."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:200
+msgid "Troubleshooting Tips"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:201
+msgid ""
+"If you do not see shipping rates in the cart or have issues creating "
+"shipping labels then:"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:202
+msgid ""
+"Save settings and look at the top for any possible validation errors "
+"displayed in the red container above"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:203
+msgid ""
+"Enable Validate Products and save the settings, then check for validation "
+"errors"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:204
+msgid ""
+"Enable Debug Mode, uncheck Use Cache and perform operation at question, then "
+"look for error messages in the cart and generated log file"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:205
+msgid "Verify that all API/Token keys you have used are correct and active"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:206
+msgid "Verify that all products have dimensions and weight set"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:207
+msgid ""
+"To see rates in the cart make sure that Live Shipping Rates feature of the "
+"plugin is enabled"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:208
+msgid "Try unchecking Signature Service and Include Insurance"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:209
+msgid ""
+"If you've enabled Shipping Zones feature of the plugin then make sure to add "
+"plugin to the relevant Shipping Zones"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:210
+msgid ""
+"Disable other shipping plugins and observe if it will make any difference"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:211
+msgid ""
+"If after all that issue still persists, then send us screenshots of the "
+"issue along with the contents of the generated log file, when debug was "
+"enabled, and we will help you to resolve the issue."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:219
+msgid "Do you want to learn how to configure and use this plugin?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:221
+msgid "Click to read documentation"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:228
+msgid "Enable this shipping plugin"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:240
+msgid "General Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:244
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:245
+msgid "Test plugin settings without buying postage"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:248
+msgid "Allows to test plugin without the need to pay real money for postage."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:251
+msgid "Validate Products"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:252
+msgid "Validate Products Weight and Dimensions"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:255
+msgid ""
+"Products must have weight and dimensions set for live shipping rates to "
+"work. Enable this option and plugin will display IDs of the products that do "
+"not meet this requirement."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:258
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:259
+msgid "Log plugin activities"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:261
+msgid "Log can be found in"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:263
+msgid "WooCommerce -> Status -> Logs"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:264
+msgid " with the name"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:266
+msgid "It can also be found in: "
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:273
+#: includes/Shipping/ShippingMethod.php:1647
+msgid "Use Cache"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:274
+msgid "Enable caching of API responses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:277
+msgid ""
+"Caching improves performance and helps to reduce API usage by preventing "
+"duplicate requests to the service. You can try to disable it for debug "
+"purposes."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:280
+msgid "Cache Expiration (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:282
+msgid ""
+"Found rates, addresses, parcels, customs info will cached for a given amount "
+"of seconds and help to reduce number of required API requests. For "
+"production we recommend to set this value for at least a few days."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:285
+msgid "Request Timeout (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:287
+msgid ""
+"Defines for how long plugin should wait for a response after API request has "
+"been sent."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:295
+msgid "Common Shipping Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:297
+msgid ""
+"Configure default settings that will be used to request a quote, create "
+"shipment and purchase postage."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:304
+msgid "Use Seller Address"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:306
+msgid "Use Vendor's address as a FROM address for shipping rate quoting"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:317
+msgid "Do you want to charge separate shipping for each vendor?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:319
+msgid "Shipping Packages"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:320
+msgid ""
+"plugin will arrange products, based on Group By condition into packages and "
+"each package will have its own shipping method selection in the cart and "
+"checkout pages."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:330
+msgid "Validate Address"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:331
+msgid "Require shipping address to be validated before accepting an order"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:341
+msgid "Combine All Products"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:342
+msgid ""
+"Combine all the products and ship together. Product dimensions and weight "
+"will be summed and shipping rate will be quoted only once."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:350
+msgid ""
+"Parcel dimensions will be converted into cube with equally long sides. It "
+"can only be used when Combine All Products is enabled."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:366
+msgid "Collect On Delivery"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:367
+msgid "Request collection of the payment on delivery"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:378
+msgid "Include Insurance"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:379
+msgid "Add insurance fee to the shipping rate"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:389
+msgid "Signature Required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:390
+msgid "Display only shipping methods that support signature service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:400
+msgid "Default Tariff #"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:402
+#, php-format
+msgid ""
+"%sTariff number%s is required by some carriers for international shipments. "
+"It will be used to get shipping quotes unless overwritten during shipping "
+"label creation."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:409
+msgid "Live Shipping Rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:411
+msgid ""
+"Configure live shipping rate settings that will be displayed on the cart and "
+"checkout pages."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:416
+msgid "Display live shipping rates on cart and checkout pages"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:417
+msgid "Please note that having it enabled can affect your API limits"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:420
+msgid "Shipping Zones"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:421
+msgid "Control availability of this shipping method with Shipping Zones"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:428
+msgid ""
+"No shipping rates will be displayed until you will add plugin to desired "
+"Shipping Zones."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:429
+msgid "Do you still want to enable it?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:432
+msgid ""
+"If this option is enabled, then live shipping rates will not be displayed "
+"until you will add plugin to the relevant shipping zones. Please note that "
+"WooCommerce does not support overlapping shipping zones."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:435
+msgid "Shipping Zone Fields"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:443
+msgid ""
+"Choose what fields from the plugin settings you would like to overwrite in "
+"shipping zone settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:447
+msgid "Page Condition"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:451
+#: includes/Shipping/ShippingMethod.php:741
+msgid "Any"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:452
+msgid "Cart and Checkout"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:453
+msgid "Checkout"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:456
+msgid ""
+"Plugin will attempt to fetch live shipping rates only on pages that meet "
+"specified condition"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:459
+msgid "Min Shipping Rate Cost"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:462
+msgid ""
+"Only shipping rates that are higher or equal than a given amount will be "
+"displayed"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:465
+msgid "Max Shipping Rate Cost"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:468
+msgid ""
+"Only shipping rates that are lower or equal than a given amount will be "
+"displayed"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:471
+msgid "Max Displayed Rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:474
+msgid "Limit number of shipping rates displayed at once"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:481
+msgid "Display Delivery Time"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:482
+msgid "Display delivery time next to the name of a shipping method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:493
+msgid "Display Tracking Type"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:494
+msgid ""
+"Display type of the tracking included next to the name of a shipping method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:508
+msgid "Need Manifests?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:510
+msgid "Shipping Manifests PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:511
+msgid ""
+"plugin will group shipments into batches and let you print manifests for "
+"them."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:520
+msgid "Media Mail Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:522
+msgid ""
+"Configure whenever media mail shipping should be offered and under which "
+"conditions."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:525
+msgid "Media Mail"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:528
+msgid "Do not offer it"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:529
+msgid "Show only Media Mail shipping method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:530
+msgid "Show it together with other shipping methods"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:535
+#: includes/Shipping/ShippingMethod.php:552
+#: includes/Shipping/ShippingMethod.php:570
+msgid "Condition"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:539
+msgid ""
+"If all products in the cart or a shipping package exactly match this "
+"condition, then Medial Mail shipping will be offered. It is ignored when "
+"empty."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:547
+msgid "Alcohol Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:549
+msgid ""
+"Configure what conditions products have to match to be considered as an "
+"alcohol."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:556
+msgid ""
+"If any of the products in the cart or a shipping package match all of these "
+"conditions, then shipment will be marked as containing alcohol."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:565
+msgid "Dry Ice Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:567
+msgid ""
+"Configure what conditions products have to match to be considered as a dry "
+"ice."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:574
+msgid ""
+"If any of the products in the cart or a shipping package match all of these "
+"conditions, then shipment will be marked as dry ice."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:582
+msgid "Parcel Adjustments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:585
+msgid ""
+"Configure how final weight and dimensions of the parcel should be adjusted "
+"before requesting a quote."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:586
+msgid "Do not change unless you understand what you are doing!"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:590
+#, php-format
+msgid "Min Length (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:593
+msgid "This value will be used when package length is less than the min length"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:597
+#, php-format
+msgid "Min Width (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:600
+msgid "This value will be used when package width is less than the min width"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:604
+#, php-format
+msgid "Min Height (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:607
+msgid "This value will be used when package height is less than the min height"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:611
+#, php-format
+msgid "Min Weight (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:614
+msgid "This value will be used when package weight is less than the min weight"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:618
+#, php-format
+msgid "Add to Weight (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:621
+msgid "This fixed value will be added to weight"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:625
+msgid "Multiply Weight By"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:628
+msgid "Weight will be multiplied by this value"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:631
+msgid "Shipping Rate Adjustments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:633
+msgid "Configure how quoted shipping rates should be adjusted."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:639
+msgid "This value will be added to all quoted shipping rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:645
+msgid "All quoted shipping rates will be multiplied by this value"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:655
+msgid "Need a Better Free Shipping Solution?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:657
+msgid "Free Shipping Per Package PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:658
+msgid "plugin will allow you to define advanced Free Shipping scenarios."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:670
+msgid "Need Fallback Shipping Methods Solution?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:672
+msgid "Flexible Shipping Per Package PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:673
+msgid ""
+"plugin will allow you to define fallback shipping methods when API service "
+"is down."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:689
+msgid "Auto Tracking Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:691
+msgid ""
+"Configure how often plugin should attempt to look for tracking updates. "
+"Plugin will use order email template with the added customer note containing "
+"current status of the shipment."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:695
+msgid "Enable auto tracking feature"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:701
+msgid "Run Auto Tracking Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:704
+msgid "How often in seconds auto tracking job should be executed."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:708
+msgid "Update Shipments Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:711
+msgid "How often in seconds tracking of shipments should be updated."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:715
+msgid "Status Change Timeout (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:718
+msgid ""
+"Stop checking for shipment status update when it does not change within "
+"specified period."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:722
+#: includes/Shipping/ShippingMethod.php:830
+msgid "Max Shipments At Once"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:725
+msgid "Tracking of how many shipments we should update at once."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:733
+msgid "Email Notifications"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:735
+msgid ""
+"Configure when shipment status updates should be emailed to the customers."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:738
+msgid "Notify for Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:742
+msgid ""
+"Email with tracking status update will be sent to the customers when "
+"shipment status will change to one of the listed values."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:746
+msgid "Orders Auto Completion"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:748
+msgid ""
+"Configure for what shipment statuses order should be automatically marked as "
+"completed."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:751
+msgid "Complete Order for Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:755
+msgid ""
+"Order will be marked as completed when shipment status will change to one of "
+"the listed values. By default order will not automatically change its status "
+"to completed."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:763
+msgid "Export Orders"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:765
+msgid ""
+"Configure settings for auto exporting of the new WooCommerce Orders into the "
+"service provider here."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:769
+msgid "Enable auto export of new orders feature"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:775
+msgid "Export Order Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:779
+msgid "Define the order statuses you wish to export."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:781
+msgid "Select Order Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:785
+msgid "Run Export Orders Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:788
+msgid ""
+"How often in seconds export orders job should be executed. It usually "
+"depends on how many orders your store receives."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:792
+msgid "Delay Between Attemps (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:795
+msgid ""
+"The time plugin should wait before attempting to export the same order when "
+"last attempt has failed. It is recommended for it to be greater than Run "
+"Export Orders Interval."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:799
+msgid "Max Orders At Once"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:802
+msgid "How many orders should be exported at once?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:811
+msgid "Import Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:813
+msgid ""
+"If you create shipping labels in the Dashboard of the service provider, then "
+"you can configure settings of auto importing of these shipments into "
+"WooCommerce Orders here."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:817
+msgid "Enable auto import of shipments feature"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:823
+msgid "Run Import Shipments Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:826
+msgid ""
+"How often in seconds import shipments job should be executed. It usually "
+"depends on how often you create shipments."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:833
+msgid ""
+"How many shipments do you usually create in the inverval configured above?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:841
+msgid "PDF Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:843
+msgid "Define settings that will be applied to generated PDF documents."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:846
+msgid "Auto Print"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:849
+msgid ""
+"Add script to generated PDF documents, which will trigger printing upon "
+"opening with supported viewers"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:853
+msgid "Printer Dialog"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:856
+msgid "Display printer settings dialog before submiting a printer job"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:863
+msgid "Purchase Postage Defaults"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:865
+msgid ""
+"Configure default values that will be used when purchasing shipping labels "
+"in bulk or individually."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:868
+msgid "Shipment Description"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:871
+msgid "This description will be used by default, but can be overwritten."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:875
+msgid "Contents"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:878
+msgid "Selected contents will be used in customs declaration"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:882
+msgid "Country of Origin"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:888
+msgid "Domestic Service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:889
+msgid "By default use this service for Domestic Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:891
+#: includes/Shipping/ShippingMethod.php:899
+msgid "No default service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:896
+msgid "International Service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:897
+msgid "By default use this service for International Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:907
+msgid "Purchase Postage Workflow"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:909
+msgid ""
+"Configure required manual steps before we will attempt to purchase postage "
+"for the shipment."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:912
+msgid "Allow Multiple Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:913
+msgid "Allow creation of the multiple shipments for the same order"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:919
+msgid "Require to Get A Quote"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:920
+msgid "Request shipping rates quote before allowing to create a shipment"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:930
+#: includes/Shipping/ShippingMethod.php:971
+msgid "Require to Create Shipment"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:931
+#: includes/Shipping/ShippingMethod.php:972
+msgid ""
+"Create shipment before allowing to purchase postage (create shipping label)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:941
+msgid "Require to Confirm Shipment Details"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:942
+msgid ""
+"Display confirmation dialog with the shipment details before allowing to "
+"create shipment (purchase postage)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:948
+msgid "Bulk Purchase Postage Workflow"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:950
+msgid ""
+"Configure ability to create shipments and purchase postage in bulk from "
+"Admin Orders. In this case, all products are expected to be shipped in one "
+"parcel."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:954
+msgid "Enable bulk shipment creation and postage purchase"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:960
+msgid "Use Service Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:961
+msgid "Limit service selection based on Service Settings of the plugin"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:982
+msgid "Require to Purchase Postage"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:983
+msgid "Purchase postage before allowing to download shipping label and forms"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1014
+msgid ""
+"What is the address of the place from where parcels are going to be shipped?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1073
+msgid "Integration Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1075
+msgid ""
+"Configure settings required for plugin to properly work with the service."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1107
+#: includes/Shipping/ShippingMethod.php:1133
+msgid "Do you want Vendors to be able to Print Shipping Labels?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1109
+msgid "Shipping Labels for WCFM PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1110
+msgid ""
+"plugin is required, to add an ability to Vendors to print Shipping Labels in "
+"WCFM Frontend."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1135
+msgid "Shipping Labels for Dokan PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1136
+msgid ""
+"plugin is required, to add an ability to Vendors to print Shipping Labels in "
+"Dokan Dashboard."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1249
+msgid "From Address: "
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1251
+msgid "To Address: "
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1626
+msgid "Validation Errors"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1647
+msgid "is disabled, please use it only for debugging purposes"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1652
+msgid "Cache Expiration (sec)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1652
+msgid "is too short, please set it to 60 or more seconds"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1664
+msgid "Name or Company should be filled"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1669
+msgid "Phone is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1674
+msgid "Country is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1679
+msgid "City is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1684
+msgid "Zip / Postal Code is required to be able to get shipping rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1689
+msgid "Address 1 is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1710
+msgid "The following products do not have Weight set"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1720
+msgid "The following products do not have Length, Width or Height set"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1748
+msgid "Plugin is not added to any Shipping Zone"
+msgstr ""
+
+#: wc-fedex-shipping.php:41
+msgid "Real-time FedEx shipping rates and address validation"
+msgstr ""
+
+#: wc-fedex-shipping.php:43
+msgid "Do you have any questions or requests?"
+msgstr ""
+
+#: wc-fedex-shipping.php:45
+msgid "Do you like our plugin and can recommend to others?"
+msgstr ""
